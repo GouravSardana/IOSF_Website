@@ -21,12 +21,14 @@ location = lambda x: os.path.join(os.path.realpath(BASE_DIR),x)
 # See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'zig0uf0tbk$jnps0f#m-7-o@)=r50jyra$$r!-7a3s%1ccjcq6'
+SECRET_KEY = '#'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'indianopensourcefoundation.herokuapp.com',
+]
 
 
 # Application definition
