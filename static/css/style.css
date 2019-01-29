@@ -1,45 +1,49 @@
+
 header{
-    		background-image: url(../images/bg.jpeg);
-    		background-position: center;
-    		background-size: cover;
-    		height: 800px;
-    	}
-		.heading{
-			margin: 150px 0px;
-		}
-		.apply-btn{
-			border-radius: 10px;
-			margin: 30px 30px;
-		}
-		.view-code-btn{
-			border-radius: 10px;
-			background-color: transparent;
-			color: #212121;
-			border: 2px solid #212121;
-		}
-		.view-code-btn:hover{
-			background-color: #212121;
-			color: white;
-		}
-		.idea-list-btn{
-			border-radius: 10px;
-			background-color: transparent;
-			color: #212121;
-			border: 2px solid #212121;
-		}
-		.idea-list-btn:hover{
-			background-color: #212121;
-			color: white;
-		}
-		.social{
-			margin: 30px 10px;
-		}
-		.footer-links li a {
-			font-size: 18px;
-		}
-		h3{
-			margin: 100px 0px;
-		}
-		section{
-			height: 600px;
-		}
+    background-image: url(../images/bg.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+}
+.heading{
+    margin: 150px 0px;
+}
+.apply-btn{
+    border-radius: 10px;
+    margin: 30px 30px;
+}
+.view-code-btn{
+    border-radius: 10px;
+    background-color: transparent;
+    color: #212121;
+    border: 2px solid #212121;
+}
+.view-code-btn:hover{
+    background-color: #212121;
+    color: white;
+}
+.idea-list-btn{
+    border-radius: 10px;
+    background-color: transparent;
+    color: #212121;
+    border: 2px solid #212121;
+}
+.idea-list-btn:hover{
+    background-color: #212121;
+    color: white;
+}
+.social{
+    margin: 30px 10px;
+}
+.footer-links li a {
+    font-size: 18px;
+}
+h3{
+    margin: 100px 0px;
+}
+section{
+    height: 600px;
+}
+#tweet{
+heigh:500px;
+}
