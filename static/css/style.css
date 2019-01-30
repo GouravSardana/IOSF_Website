@@ -47,3 +47,7 @@ section{
 #tweet{
 heigh:500px;
 }
+
+.social-link:hover{
+background-color: blue;
+}
