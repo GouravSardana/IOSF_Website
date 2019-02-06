@@ -23,7 +23,13 @@ SECRET_KEY = '#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'ec2-3-16-47-51.us-east-2.compute.amazonaws.com:8000',
+    '127.0.0.1:8000',
+    '3.16.47.51',
+    '3.16.47.51:8000',
+    'ec2-3-16-47-51.us-east-2.compute.amazonaws.com',
+]
 
 
 # Application definition
