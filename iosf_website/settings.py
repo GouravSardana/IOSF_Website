@@ -30,6 +30,7 @@ ALLOWED_HOSTS = [
     '3.16.47.51:8000',
     'ec2-3-16-47-51.us-east-2.compute.amazonaws.com',
     'indianopensourcefoundation.org',
+    'www.indianopensourcefoundation.org',
 ]
 
 
