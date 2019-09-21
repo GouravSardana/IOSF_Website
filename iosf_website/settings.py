@@ -24,11 +24,7 @@ SECRET_KEY = '#'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'ec2-3-16-47-51.us-east-2.compute.amazonaws.com:8000',
-    '127.0.0.1:8000',
-    '3.16.47.51',
-    '3.16.47.51:8000',
-    'ec2-3-16-47-51.us-east-2.compute.amazonaws.com',
+    '18.218.236.7',
     'indianopensourcefoundation.org',
     'www.indianopensourcefoundation.org',
 ]
