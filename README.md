@@ -10,8 +10,6 @@ See [Guidelines](https://github.com/IndianOpenSourceFoundation/IOSF_Website/blob
 
 * Gourav Sardana - gsardana001@gmail.com
 
-* Kartik Sapra - kartiksapra005@gmail.com
-
 * Sakshat Lidhoo - voteforsakshat@gmail.com
 
 Visit [Official Wesite](http://www.indianopensourcefoundation.org/)
