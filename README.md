@@ -1,6 +1,6 @@
 # IOSF.org
 
-The Aim of IOSF is to develop open source software solutions with a global developer community from its base in India. The mission of IOSF is to help people by developing open source tools and aims at building a sustainable open source ecosystem.
+The aim of IOSF is to develop open source software solutions with a global developer community from its base in India. The mission of IOSF is to help people by developing open source tools and aims at building a sustainable open source ecosystem.
 
 # How To Contribute
 
